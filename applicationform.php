@@ -16,9 +16,9 @@
         <input type="text" placeholder="Surname" name="surname"><br><br><br>
         <input type="text" placeholder="Phone number" name="phone"><br><br><br>
         <input type="text" placeholder="Email"  name="email"><br><br><br>
-
-        Passport Photograph <input type="file" name="passport"><br><br><br>
-        Resume <input type="file" name="resume"><br><br>
+        <textarea name="cover_letter" placeholder="Cover Letter"></textarea><br><br>
+       <!--  Passport Photograph <input type="file" name="passport"><br><br><br>
+        Resume <input type="file" name="resume"><br><br> -->
 
         <input type="submit" value="Apply">
     </form>
