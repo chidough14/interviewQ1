@@ -22,6 +22,7 @@
 
         <input type="submit" value="Apply">
     </form>
+    <a href="admin.php">Admin</a>
   </div>
    
 </body>
